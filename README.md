@@ -17,7 +17,7 @@ python -m unittest discover -s tests -v
 
 ### Limites
 
-Au plus16 paires ; validité conditionnée à léchangeabilité des signes et au plan de comparaison, pas une preuve causale sur mesures observationnelles.
+Au plus16 paires ; validité conditionnée à l’échangeabilité des signes et au plan de comparaison, pas une preuve causale sur mesures observationnelles.
 
 ### Validation
 
