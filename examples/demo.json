@@ -1,0 +1,20 @@
+{
+  "pairs": [
+    {
+      "id": "0",
+      "baseline": 10,
+      "candidate": 11
+    },
+    {
+      "id": "1",
+      "baseline": 10,
+      "candidate": 11
+    },
+    {
+      "id": "2",
+      "baseline": 10,
+      "candidate": 11
+    }
+  ],
+  "alternative": "greater"
+}

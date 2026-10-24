@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "paired-process-randomization"
+version = "0.1.0a1"
+description = "FR: Comparer deux procédés par un test exact de randomisation appariée | EN: Compare processes with an exact paired randomization test | ES: Comparar procesos con una prueba exacta de aleatorización emparejada"
+requires-python = ">=3.11"
+license = "MIT"
+
+[project.scripts]
+paired-process-randomization = "paired_process_randomization.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["paired_process_randomization*"]

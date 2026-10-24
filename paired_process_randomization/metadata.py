@@ -1,0 +1,1 @@
+DESCRIPTION = {'fr': 'Comparer deux procédés par un test exact de randomisation appariée', 'en': 'Compare processes with an exact paired randomization test', 'es': 'Comparar procesos con una prueba exacta de aleatorización emparejada'}
